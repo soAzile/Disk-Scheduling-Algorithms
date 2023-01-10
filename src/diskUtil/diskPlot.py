@@ -22,11 +22,18 @@ def plot(reqs: list, time: int, head: int, algo: str, dsize: int = None) -> None
 
     y = [i for i in range(len(temp))]
 
+    plt.vlines(
+        temp, y, len(temp),
+        linestyle='dashed',
+        colors='red'
+    )
+
     plt.plot(
         temp, y,
         color='#088F8F',
         marker='o',
-        clip_on=False
+        clip_on=False,
+        linewidth=2
     )
 
     # Algo name and seek time in plot

@@ -14,12 +14,12 @@ The following example is used as input for all the disk scheduling algorithms:
 The Disc has 200 Tracks. Request sequence is **{176, 79, 34, 60, 92, 11, 41, 114}** and the Initial head position is **50**.
 The head is moving towards **Right** direction.
 
-| ![FCFS](./plots/FCFS.png)                      | ![SSTF]()                      |
+| ![FCFS](./plots/FCFS.png)                      | ![SSTF](./plots/SSTF.png)                      |
 |------------------------------------------------|------------------------------------------------|
 | <p align = center>*FCFS Disk Scheduling*</p>   | <p align = center>*SSTF Disk Scheduling*</p>   |
-| ![SCAN]()                      | ![LOOK]()                      |
+| ![SCAN]()                                      | ![LOOK]()                                      |
 | <p align = center>*SCAN Disk Scheduling*</p>   | <p align = center>*LOOK Disk Scheduling*</p>   |
-| ![C-SCAN]()                  | ![C-LOOK]()                  |
+| ![C-SCAN]()                                    | ![C-LOOK]()                                    |
 | <p align = center>*C-SCAN Disk Scheduling*</p> | <p align = center>*C-LOOK Disk Scheduling*</p> |
 
 

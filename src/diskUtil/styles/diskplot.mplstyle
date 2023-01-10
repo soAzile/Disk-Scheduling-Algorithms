@@ -1,0 +1,13 @@
+## TICKS
+xtick.bottom: False
+xtick.labelbottom: False
+xtick.top: True
+xtick.labeltop: True
+
+## FIGURE
+figure.autolayout: True
+
+## AXES
+axes.spines.left: False
+axes.spines.right: False
+axes.spines.bottom: False

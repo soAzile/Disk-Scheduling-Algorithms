@@ -17,7 +17,7 @@ The head is moving towards **Right** direction.
 | ![FCFS](./plots/FCFS.png)                      | ![SSTF](./plots/SSTF.png)                      |
 |------------------------------------------------|------------------------------------------------|
 | <p align = center>*FCFS Disk Scheduling*</p>   | <p align = center>*SSTF Disk Scheduling*</p>   |
-| ![SCAN]()                                      | ![LOOK]()                                      |
+| ![SCAN](./plots/SCAN.png)                      | ![LOOK](./plots/LOOK.png)                      |
 | <p align = center>*SCAN Disk Scheduling*</p>   | <p align = center>*LOOK Disk Scheduling*</p>   |
 | ![C-SCAN]()                                    | ![C-LOOK]()                                    |
 | <p align = center>*C-SCAN Disk Scheduling*</p> | <p align = center>*C-LOOK Disk Scheduling*</p> |

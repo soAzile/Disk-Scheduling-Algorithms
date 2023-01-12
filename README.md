@@ -19,7 +19,7 @@ The head is moving towards **Right** direction.
 | <p align = center>*FCFS Disk Scheduling*</p>   | <p align = center>*SSTF Disk Scheduling*</p>   |
 | ![SCAN](./plots/SCAN.png)                      | ![LOOK](./plots/LOOK.png)                      |
 | <p align = center>*SCAN Disk Scheduling*</p>   | <p align = center>*LOOK Disk Scheduling*</p>   |
-| ![C-SCAN]()                                    | ![C-LOOK]()                                    |
+| ![C-SCAN](./plots/C-SCAN.png)                  | ![C-LOOK](./plots/C-LOOK.png)                  |
 | <p align = center>*C-SCAN Disk Scheduling*</p> | <p align = center>*C-LOOK Disk Scheduling*</p> |
 
 
